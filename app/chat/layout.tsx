@@ -3,8 +3,8 @@ import { ChatMenu } from "@/features/chat/chat-menu/chat-menu";
 import { MainMenu } from "@/features/menu/menu";
 
 export const metadata = {
-  title: "JGS GPT",
-  description: "JGS GPT",
+  title: "JGS Secure GPT",
+  description: "JGS Secure GPT",
 };
 
 export default async function RootLayout({

@@ -2,8 +2,8 @@ import { ProtectedPage } from "@/features/auth/protected-page";
 import { MainMenu } from "@/features/menu/menu";
 
 export const metadata = {
-  title: "JGS GPT",
-  description: "JGS GPT",
+  title: "JGS Secure GPT",
+  description: "JGS Secure GPT",
 };
 
 export default async function RootLayout({

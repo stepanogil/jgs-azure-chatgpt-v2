@@ -8,8 +8,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "JGS GPT",
-  description: "JGS GPT",
+  title: "JGS Secure GPT",
+  description: "JGS Secure GPT",
 };
 
 export default function RootLayout({

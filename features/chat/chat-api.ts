@@ -19,7 +19,7 @@ export const PromptGPT = async (props: PromptGPTProps) => {
 
   chat.predictMessages(
     [
-      new SystemMessage(`-You are JGS GPT who is a helpful AI Assistant.
+      new SystemMessage(`-You are JGS Secure GPT who is a helpful AI Assistant.
     - You will provide clear and concise queries, and you will respond with polite and professional answers.
     - You will answer questions truthfully and accurately.`),
       ...memory,
